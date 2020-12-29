@@ -1,19 +1,13 @@
-![LimeSurvey Logo](https://account.limesurvey.org/images/logos/logo_main.png)
+
 # Sophisticated online survey software
-[![Build Status](https://travis-ci.org/LimeSurvey/LimeSurvey.svg?branch=master)](https://travis-ci.org/LimeSurvey/LimeSurvey/)
+
 
 
 ## About
-Limesurvey is the number one open-source survey software.
+aresto 
 
 Advanced features like branching and multiple question types make it a valuable partner for survey-creation.
 
-### Demo
-
-See our [Administration Demo](http://demo.limesurvey.org/index.php?r=admin/authentication/sa/login).
-The credentials are prefilled, just click **Log in**
-
-Or try taking one of our [test surveys](https://survey.limesurvey.org/index.php?sid=78184&lang=en)
 
 
 ## How to install
